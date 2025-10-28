@@ -25,7 +25,7 @@ local Config = {
     Movement = {Fly = true, FlySpeed = 75, SpeedBoost = 15, JumpBoost = 5, NoCrouchBarriers = true},
 
     -- Visual Settings
-    Visual = {Fullbright = true, NoFog = true, NoCamShake = true, FOV = 70, ThirdPerson = false},
+    Visual = {Fullbright = true, NoFog = true, NoCamShake = true, FOV = 70, ThirdPerson = turn},
 
     -- Keybinds
     Keybinds = {Fly = "F", Godmode = "G", AutoInteract = "R", ThirdPerson = "C"}
